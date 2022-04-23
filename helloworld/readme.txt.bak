@@ -1,0 +1,10 @@
+Prerequistes
+............
+truffle
+
+How to run in local
+...................
+1) clone the repo
+2) cd to project
+3) truffle development
+4) migrate (compile)
